@@ -10,7 +10,13 @@
 
 ## 目录
 
-+   [Spring Boot 1.5.2 中文文档](doc/spring-boot-doc-zh/SUMMARY.md)
++   [Cython 中文文档](doc/cython-doc-zh/SUMMARY.md)
++   [Django 1.8 中文文档](doc/django-doc-18-zh/SUMMARY.md)
++   [Numba 中文文档](doc/numba-doc-zh/SUMMARY.md)
++   [PyQt4 中文文档](doc/pyqt4-doc-zh/SUMMARY.md)
++   [RPy2 中文文档](doc/rpy2-doc-zh/SUMMARY.md)
++   [Scapy 中文文档](doc/scapy-doc-zh/SUMMARY.md)
++   [Scrapy 1.6 中文文档](doc/scrapy-doc-zh/SUMMARY.md)
 
 ## 贡献指南
 
